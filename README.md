@@ -462,43 +462,31 @@ Deploy the Flask frontend using Databricks Apps.
 
 ---
 
-## Application Demo
+## Screenshots
 
-### Dashboard
+### Home
 
-The main ResearchGPT interface provides learning goal creation, semantic search, collections, reading progress tracking, and note-taking capabilities.
-
-![Dashboard]((screenshots/home.png)
-
-### Semantic Search
-
-ResearchGPT retrieves research papers using semantic search powered by Sentence Transformer embeddings and FAISS vector search.
-
-![Dashboard]((screenshots/search_results.png)
-
-### AI Generated Study Plan
-
-Users can generate personalized study plans based on learning goals.
-
-![Dashboard]((screenshots/study_plan.png)
-
-### Collection Management
-
-Research papers can be organized into collections.
-
-![Dashboard]((screenshots/collection.png)
-
-### Reading Progress Tracking
-
-Users can track completed papers and monitor learning progress.
-
-![Dashboard]((screenshots/reading_progress.png)
+![Home](screenshots/home.png)
 
 ### Analytics Dashboard
 
-ResearchGPT provides analytics on learning goals, collections, reading progress, and notes.
+![Analytics Dashboard](screenshots/analytics_dashboard.png)
 
-![Dashboard]((screenshots/analytics_dashboard.png)
+### Collection
+
+![Collection](screenshots/collection.png)
+
+### Reading Progress
+
+![Reading Progress](screenshots/reading_progress.png)
+
+### Search Results
+
+![Search Results](screenshots/search_results.png)
+
+### Study Plan
+
+![Study Plan](screenshots/study_plan.png)
 
 ---
 
