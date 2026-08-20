@@ -462,6 +462,34 @@ Deploy the Flask frontend using Databricks Apps.
 
 ---
 
+## Application Demo
+
+### Dashboard
+
+screenshots/home.png
+
+### Semantic Search
+
+screenshots/search_results.png
+
+### AI Generated Study Plan
+
+screenshots/study_plan.png
+
+### Collection Management
+
+screenshots/collection.png
+
+### Reading Progress Tracking
+
+screenshots/reading_progress.png
+
+### Analytics Dashboard
+
+screenshots/analytics_dashboard.png
+
+---
+
 ## Key Features
 
 - OpenAlex API Integration
