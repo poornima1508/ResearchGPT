@@ -466,7 +466,7 @@ Deploy the Flask frontend using Databricks Apps.
 
 ### Dashboard
 
-screenshots/home.png
+Screenshots/home
 
 ### Semantic Search
 
