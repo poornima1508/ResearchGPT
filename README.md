@@ -466,27 +466,27 @@ Deploy the Flask frontend using Databricks Apps.
 
 ### Dashboard
 
-Screenshots/home
+Screenshots/home.png
 
 ### Semantic Search
 
-screenshots/search_results.png
+Screenshots/search_results.png
 
 ### AI Generated Study Plan
 
-screenshots/study_plan.png
+Screenshots/study_plan.png
 
 ### Collection Management
 
-screenshots/collection.png
+Screenshots/collection.png
 
 ### Reading Progress Tracking
 
-screenshots/reading_progress.png
+Screenshots/reading_progress.png
 
 ### Analytics Dashboard
 
-screenshots/analytics_dashboard.png
+Screenshots/analytics_dashboard.png
 
 ---
 
